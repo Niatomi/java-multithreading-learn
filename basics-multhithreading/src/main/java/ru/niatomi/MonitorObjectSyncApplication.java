@@ -1,4 +1,4 @@
-package ru.niatomi;
+package main.java.ru.niatomi;
 
 /**
  * @author niatomi

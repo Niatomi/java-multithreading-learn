@@ -1,9 +1,9 @@
-package ru.niatomi.classes;
+package main.java.ru.niatomi.classes;
 
 /**
  * @author niatomi
  */
-public class MyThread extends Thread {
+public class MyRunnableThread implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 10; i++) {

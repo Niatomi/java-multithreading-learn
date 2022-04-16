@@ -1,6 +1,6 @@
-package ru.niatomi;
+package main.java.ru.niatomi;
 
-import ru.niatomi.classes.Counter;
+import main.java.ru.niatomi.classes.Counter;
 
 /**
  * @author niatomi

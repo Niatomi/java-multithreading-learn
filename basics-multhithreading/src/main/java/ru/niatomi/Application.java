@@ -1,7 +1,7 @@
-package ru.niatomi;
+package main.java.ru.niatomi;
 
-import ru.niatomi.classes.MyRunnableThread;
-import ru.niatomi.classes.MyThread;
+import main.java.ru.niatomi.classes.MyRunnableThread;
+import main.java.ru.niatomi.classes.MyThread;
 
 /**
  * @author niatomi
