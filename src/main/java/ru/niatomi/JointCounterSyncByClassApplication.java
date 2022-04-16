@@ -5,7 +5,7 @@ import ru.niatomi.classes.Counter;
 /**
  * @author niatomi
  */
-public class JointCounterApplication {
+public class JointCounterSyncByClassApplication {
     public static void main(String[] args) {
         Counter counter = new Counter();
 
