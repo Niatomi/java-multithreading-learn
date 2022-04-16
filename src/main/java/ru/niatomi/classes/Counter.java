@@ -14,11 +14,11 @@ public class Counter {
         return x;
     }
 
-    public void increment() {
+    public synchronized void increment() {
         this.x++;
     }
 
-    public void decrement() {
+    public synchronized void decrement() {
         this.x--;
     }
 
