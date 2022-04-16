@@ -14,7 +14,6 @@ public class Application {
         myThread1.start();
 
         try {
-//            thread.join();
             myThread1.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
